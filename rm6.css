@@ -1,0 +1,299 @@
+body {
+    margin:0px;
+    background-color: gray;
+}
+.level1 {
+    background-color: #CAD0D1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#4D4D4F;
+    display: flex;
+    padding:13px;
+    font-size: 14;
+}
+.a1{
+    margin-left:80px;
+    padding-top: 2px;
+    font-size:15px;
+}
+.l1{
+    margin-left:5px;
+}
+.a2 {
+    margin-left:15px;
+    font-size:19px;
+    padding-top: 0;
+}
+.l2{
+    margin-left:5px;
+}
+.a3{
+    margin-left:14px;
+    font-size:14;
+    padding-top: 1.3px;
+}
+.l3{
+    margin-left:5px;
+}
+.l4{
+    margin-left:520px;
+    border:none;
+}
+.searchbar {
+    border:0px;
+    padding:3 3;
+}
+.searchbutton {
+    border: 0px;
+    background-color: white;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.level2 {
+    background-color:#646464;
+    display:flex;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#CBCBCB;
+    font-size:22;
+}
+.level2 a {
+    text-decoration: none;
+    color: #CBCBCB;
+}
+.logosalevel2 {
+    padding:25 50;
+    width:150;
+    height:150;
+}
+
+
+.dropbtn {
+    background-color: #646464;
+    color: azure;
+    padding: 0 0 10 0;
+    font-size: 18px;
+    border: none;
+    margin:90 25 0 5;
+    cursor: pointer;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #646464;
+    min-width: 180px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: azure;
+    padding: 12px;
+    text-decoration: none;
+    display: block;
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  
+  .dropdown-content a:hover {background-color: #454545;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #646464;}
+
+
+
+
+
+
+
+
+
+.OurServices {
+    padding-top:60px;
+    margin-left:20px;
+}
+.OurServices-Content {
+    font-size: 14;
+}
+.Projects {
+    padding-top:60px;
+    margin-left:20px;
+}
+.Projects-Content {
+    font-size: 14;
+}
+.Careers {
+    padding-top:60px;
+    margin-left:20px;
+}
+.Careers-Content {
+    font-size: 14;
+}
+.ContactUs {
+    padding-top:60px;
+    margin-left:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.level3 {
+    background-color: #5C5858;
+}
+.imagesalevel3{
+    height:auto;
+    width:1349px;    
+}
+
+
+
+
+
+
+.level4 {
+    background-color: #8C8C8C;
+    display:flex;
+    color:azure;
+    font-size:19;
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.m1{
+    margin:50 50 50 50;
+
+}
+.z4 {
+    width:500px;
+    height:250px;
+    padding:60 50 60 0;
+}
+
+.level5 {
+    background-color: #737CA1;
+    display:flex;
+    color: azure;
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.featuredsection {
+    padding:20 50;
+    text-decoration: none;
+}
+.featuredsection .date{
+    font-size: 12;
+}
+.featuredsection .featuredtitle {
+    font-size: 25;
+    padding:0;
+}
+.featuredsection .featurednewstitle {
+    text-decoration: none;
+}
+p .featurednewstitletoh {
+    text-decoration: none;
+    color:azure;
+}
+.featuredsection .blogbody {
+    font-size: 16;
+}
+.endline{
+    padding:20 50;
+}
+.endlinetitle{
+    font-size: 25;
+}
+
+
+
+
+.j3 {
+    padding:0 0 0 0;
+}
+.iconsocmed{
+    display:flex;
+    margin-left:50px;
+    padding:0;
+    font-size:20px;
+}
+.iconsocmed a {
+    text-decoration:none;
+    color: azure;
+}
+.facebookicon {
+    font-size:20;
+    padding:10px;
+    margin-left:25px;
+}
+.igicon {
+    font-size:20;
+    padding:10px;
+}
+.linkedinicon {
+    font-size:20;
+    padding:10px;
+}
+.igicon {
+
+}
+.z5{
+    height:250px;
+    width:500px;
+    padding:50px 50px 20px 50px;
+}
+.j3 .z5 {
+    width:150px;
+    height:150px;
+}
+
+
+.level6 {
+    background-color: #737CA1;
+    display:flex;
+    padding: 0 0 15 0;
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align:center;
+}
+.level6 a {
+    text-decoration: none;
+    color:azure;
+    text-align: center;
+}
+.p1 {
+    margin-left:441px;
+}
+.level7 {
+    background-color: #000000;
+    text-align: center;
+    color:white;
+    padding: 15 50;
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12;
+}
+
+
